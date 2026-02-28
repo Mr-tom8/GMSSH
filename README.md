@@ -13,7 +13,7 @@ First off, thank you for considering contributing to the GMSSH Ecosystem! It's p
 <table width="100%">
   <tr>
     <td>
-GMSSH is a Desktop AI System High-Perf · Zero Intrusion · AI-Powered tool designed for efficiency and aesthetics. 
+GMSSH is a Desktop AI System High-Perf  · AI-Powered tool designed for efficiency and aesthetics. 
 While our core engine remains proprietary to ensure stability, we believe in the power of community extension.
 
 ## 🚀 Build for GMSSH
